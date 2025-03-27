@@ -1,5 +1,0 @@
-GET localhost:8060/api/delivery
-
-### API Docs
-
-GET http://localhost:8060/v3/api-docs.yaml
